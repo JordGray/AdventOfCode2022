@@ -1,22 +1,91 @@
-﻿'AdventofCodeDay1.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.0\System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'AdventofCodeDay1.exe' (CoreCLR: clrhost): Loaded 'C:\Users\jordw\source\repos\AdventOfCode\AdventofCodeDay1\AdventofCodeDay1\bin\Debug\net8.0\AdventofCodeDay1.dll'. Symbols loaded.
-'AdventofCodeDay1.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.0\System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'AdventofCodeDay1.exe' (CoreCLR: clrhost): Loaded 'c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\hotreload\Microsoft.Extensions.DotNetDeltaApplier.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'AdventofCodeDay1.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.0\System.IO.Pipes.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'AdventofCodeDay1.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.0\System.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'AdventofCodeDay1.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.0\System.Collections.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'AdventofCodeDay1.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.0\System.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'AdventofCodeDay1.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.0\System.Threading.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'AdventofCodeDay1.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.0\System.Runtime.InteropServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'AdventofCodeDay1.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.0\System.Threading.Overlapped.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'AdventofCodeDay1.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.0\System.Security.AccessControl.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'AdventofCodeDay1.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.0\System.Security.Principal.Windows.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'AdventofCodeDay1.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.0\System.Security.Claims.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'AdventofCodeDay1.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.0\System.Runtime.Loader.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'AdventofCodeDay1.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.0\System.Collections.Concurrent.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'AdventofCodeDay1.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.0\System.Text.Encoding.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-Exception thrown: 'System.IndexOutOfRangeException' in AdventofCodeDay1.dll
-The thread 0x1664 has exited with code 0 (0x0).
-The thread 0x52f8 has exited with code 0 (0x0).
-The thread 0x21c has exited with code 0 (0x0).
-The thread 0x38d8 has exited with code 0 (0x0).
+Elf: 1   Calories: 62797
+Elf: 2   Calories: 55570
+Elf: 3   Calories: 46236
+Elf: 4   Calories: 55959
+Elf: 5   Calories: 48610
+Elf: 6   Calories: 56307
+Elf: 7   Calories: 35282
+Elf: 8   Calories: 57174
+Elf: 9   Calories: 47775
+Elf: 10   Calories: 45721
+Elf: 11   Calories: 34370
+Elf: 12   Calories: 51141
+Elf: 13   Calories: 38740
+Elf: 14   Calories: 29904
+Elf: 15   Calories: 56790
+Elf: 16   Calories: 58156
+Elf: 17   Calories: 39306
+Elf: 18   Calories: 46275
+Elf: 19   Calories: 30209
+Elf: 20   Calories: 50185
+Elf: 21   Calories: 58995
+Elf: 22   Calories: 45444
+Elf: 23   Calories: 47894
+Elf: 24   Calories: 47294
+Elf: 25   Calories: 58519
+Elf: 26   Calories: 54732
+Elf: 27   Calories: 68177
+Elf: 28   Calories: 22802
+Elf: 29   Calories: 52144
+Elf: 30   Calories: 27842
+Elf: 31   Calories: 49013
+Elf: 32   Calories: 44673
+Elf: 33   Calories: 46634
+Elf: 34   Calories: 42065
+Elf: 35   Calories: 55050
+Elf: 36   Calories: 43943
+Elf: 37   Calories: 51140
+Elf: 38   Calories: 42749
+Elf: 39   Calories: 48537
+Elf: 40   Calories: 47401
+Elf: 41   Calories: 57541
+Elf: 42   Calories: 52840
+Elf: 43   Calories: 45262
+Elf: 44   Calories: 58798
+Elf: 45   Calories: 44223
+Elf: 46   Calories: 14434
+Elf: 47   Calories: 52526
+Elf: 48   Calories: 51130
+Elf: 49   Calories: 43891
+Elf: 50   Calories: 49755
+Elf: 51   Calories: 48861
+Elf: 52   Calories: 41354
+Elf: 53   Calories: 52789
+Elf: 54   Calories: 37127
+Elf: 55   Calories: 52223
+Elf: 56   Calories: 53448
+Elf: 57   Calories: 43250
+Elf: 58   Calories: 12008
+Elf: 59   Calories: 44847
+Elf: 60   Calories: 54251
+Elf: 61   Calories: 59757
+Elf: 62   Calories: 54861
+Elf: 63   Calories: 59873
+Elf: 64   Calories: 39270
+Elf: 65   Calories: 50953
+Elf: 66   Calories: 49814
+Elf: 67   Calories: 41352
+Elf: 68   Calories: 46856
+Elf: 69   Calories: 63315
+Elf: 70   Calories: 34606
+Elf: 71   Calories: 29763
+Elf: 72   Calories: 40185
+Elf: 73   Calories: 39435
+Elf: 74   Calories: 39680
+Elf: 75   Calories: 36600
+Elf: 76   Calories: 43449
+Elf: 77   Calories: 59627
+Elf: 78   Calories: 51207
+Elf: 79   Calories: 30052
+Elf: 80   Calories: 57333
+Elf: 81   Calories: 48467
+Elf: 82   Calories: 39314
+Elf: 83   Calories: 54467
+Elf: 84   Calories: 32433
+
+Top 3 Calories...
+1st... 68177
+
+2nd... 63315
+
+3nd... 59873
